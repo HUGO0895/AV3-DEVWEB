@@ -1,7 +1,7 @@
 package com.autobots.automanager.entidades;
 
 import java.util.Date;
-
+/* I */
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
